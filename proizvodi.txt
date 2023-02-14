@@ -1,0 +1,4 @@
+Ime parfema: Dior Sauvage
+Broj parfema na stanju: 10
+Cena u dinarima: 3574.3
+Militraža: 100.0
